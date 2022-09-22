@@ -31,3 +31,9 @@
 [submodule "2020-Thesis"]
 	path = 2020-Thesis
 	url = https://github.com/TFotakis-ECE-TUC-Projects/2020-Thesis.git
+[submodule "2018-Parallel-Computer-Architecture"]
+	path = 2018-Parallel-Computer-Architecture
+	url = https://github.com/TFotakis-ECE-TUC-Projects/2018-Parallel-Computer-Architecture.git
+[submodule "2019-Computer-Architecture-2"]
+	path = 2019-Computer-Architecture-2
+	url = https://github.com/TFotakis-ECE-TUC-Projects/2019-Computer-Architecture-2.git
