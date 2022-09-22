@@ -1,0 +1,33 @@
+[submodule "2018-Distributed-Systems"]
+	path = 2018-Distributed-Systems
+	url = https://github.com/TFotakis-ECE-TUC-Projects/2018-Distributed-Systems.git
+[submodule "2016-Operating-Systems"]
+	path = 2016-Operating-Systems
+	url = https://github.com/TFotakis-ECE-TUC-Projects/2016-Operating-Systems.git
+[submodule "2017-Advanced-Logic-Design"]
+	path = 2017-Advanced-Logic-Design
+	url = https://github.com/TFotakis-ECE-TUC-Projects/2017-Advanced-Logic-Design.git
+[submodule "2017-Computer-System-Architecture"]
+	path = 2017-Computer-System-Architecture
+	url = https://github.com/TFotakis-ECE-TUC-Projects/2017-Computer-System-Architecture.git
+[submodule "2017-Computer-Graphics"]
+	path = 2017-Computer-Graphics
+	url = https://github.com/TFotakis-ECE-TUC-Projects/2017-Computer-Graphics.git
+[submodule "2017-Taskee"]
+	path = 2017-Taskee
+	url = https://github.com/TFotakis-ECE-TUC-Projects/2017-Taskee.git
+[submodule "2017-Embedded-Systems-Bicycle-ABS"]
+	path = 2017-Embedded-Systems-Bicycle-ABS
+	url = https://github.com/TFotakis-ECE-TUC-Projects/2017-Embedded-Systems-Bicycle-ABS.git
+[submodule "2018-Theory-of-Computation"]
+	path = 2018-Theory-of-Computation
+	url = https://github.com/TFotakis-ECE-TUC-Projects/2018-Theory-of-Computation.git
+[submodule "2019-Synthesis"]
+	path = 2019-Synthesis
+	url = https://github.com/TFotakis-ECE-TUC-Projects/2019-Synthesis.git
+[submodule "2019-Machine-Learning-Schizophrenia-Classification"]
+	path = 2019-Machine-Learning-Schizophrenia-Classification
+	url = https://github.com/TFotakis-ECE-TUC-Projects/2019-Machine-Learning-Schizophrenia-Classification.git
+[submodule "2020-Thesis"]
+	path = 2020-Thesis
+	url = https://github.com/TFotakis-ECE-TUC-Projects/2020-Thesis.git
